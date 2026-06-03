@@ -39,11 +39,11 @@ Scroll Sensei does not share app usage data with advertisers, analytics provider
 
 ## Data Storage
 
-Scroll Sensei stores your app settings locally on your device, such as selected apps, time limits, and notification preferences.
+Scroll Sensei handles your selected apps, time limits, and notification preferences locally on your device.
 
 App usage information accessed through Android Usage Access / UsageStatsManager is used locally for monitoring and reminders. Scroll Sensei does not upload app usage information to a remote server.
 
-If you uninstall the app, locally stored app settings are removed according to Android's normal app uninstall behavior.
+If you uninstall the app, locally handled app settings and app data are removed according to Android's normal app uninstall behavior.
 
 ## Notifications
 
