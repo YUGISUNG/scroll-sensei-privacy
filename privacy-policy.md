@@ -59,9 +59,13 @@ You can grant or remove Usage Access permission in Android settings. If you remo
 
 ## Children's Privacy
 
-Scroll Sensei is not directed to children. The app does not ask users to create an account, log in, or provide personal information.
+Scroll Sensei is not designed for, directed to, or intended for use by children under 13 years of age, or by children as otherwise defined under applicable law.
 
-If you believe a child has provided personal information through contact with the app developer, please use the contact information below.
+The app does not require users to create an account, log in, provide a name, provide an email address, provide a phone number, or submit other direct personal information to use the app.
+
+Scroll Sensei does not knowingly collect, request, use, disclose, sell, or share personal information from children, and does not collect personal information with actual knowledge that the user is a child under 13 years of age. The app's core monitoring features are designed to operate locally on the user's device.
+
+Parents and guardians should not allow children to submit personal information through any support or contact channel. If a parent or guardian believes that a child has provided personal information to us, please contact us at the email address below. If we become aware that we have received personal information from a child, we will take reasonable steps to review the request and delete the information where required or appropriate.
 
 ## Changes to This Policy
 
