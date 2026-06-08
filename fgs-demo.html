@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Scroll Sensei Foreground Service Demo</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 2rem 1rem;
+            font-family: Arial, Helvetica, sans-serif;
+            line-height: 1.6;
+            color: #1f2933;
+            background: #ffffff;
+        }
+
+        main {
+            max-width: 760px;
+            margin: 0 auto;
+        }
+
+        h1 {
+            color: #111827;
+            font-size: 2rem;
+            line-height: 1.25;
+        }
+
+        img {
+            display: block;
+            width: min(100%, 360px);
+            height: auto;
+            margin-top: 1rem;
+            border: 1px solid #d1d5db;
+        }
+    </style>
+</head>
+<body>
+    <main>
+        <h1>Scroll Sensei Foreground Service Demo</h1>
+        <p>This demo shows how Scroll Sensei uses a user-initiated foreground service for local app-usage monitoring and time-limit reminders.</p>
+        <p>The app starts monitoring only after the user chooses to start it. While monitoring is active, Scroll Sensei shows a persistent notification and uses Android Usage Access / UsageStatsManager locally to detect selected foreground apps. The app does not sync usage data, show ads, use analytics, or share app usage data.</p>
+        <img src="fgs-demo.gif" alt="Animated demo of Scroll Sensei foreground service monitoring and reminders">
+    </main>
+</body>
+</html>
